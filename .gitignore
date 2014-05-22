@@ -1,9 +1,3 @@
-Hello World!!<br>
-Esto es una prueba<br>
-Probando desde sublime<br>
-
-<h3>.gitignore</h3>
-<pre>
 # Eclipse
 .classpath
 .project
@@ -20,4 +14,3 @@ Probando desde sublime<br>
 # Maven
 log/
 target/
-</pre>
